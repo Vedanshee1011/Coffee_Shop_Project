@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MAD_Assignment-2_Smit_21012011052</string>
+    <string name="tea">Tea</string>
+    <string name="coffee">Coffea</string>
+    <string name="sugar">Sugar</string>
+    <string name="milk">Milk</string>
+    <string name="lemon">Lemon</string>
+    <string-array name="array_of_drinks_tea">
+        <item>Green</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="array_of_drinks_coffee">
+        <item>Capuccino</item>
+        <item>Latte</item>
+        <item>Mokko</item>
+    </string-array>
+</resources>
+
